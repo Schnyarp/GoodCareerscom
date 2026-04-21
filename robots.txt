@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://goodcareers.com/sitemap.xml
